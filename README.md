@@ -2,7 +2,7 @@
 ![Banner](https://raw.githubusercontent.com/Towsif12/Towsif12/main/banner.png)
 
 
-<h1><img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="33"/> Hi! I'm Towsif</h1>
+<h1><img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="33"/> Hi! I'm Ubadah</h1>
 
 > [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=">](https://discord.com/users/674660356819517440) [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=">](https://twitter.com/TowsifKafi) [<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=">](https://www.instagram.com/towsif.kafi/)
 
@@ -17,8 +17,8 @@
   <bd>
 
   - 💻 I like learning new things.
-  - 🐱 I like Music and Anime. Check out my [MyAnimeList](https://myanimelist.net/profile/towsifkafi).
-  - 💭 I am mostly active on Discord. [**@towsif.kafi**](https://discord.com/users/565102845926572033)
+  - 🐱 I like Music and Anime. Check out my [MyAnimeList](https://myanimelist.net/profile/aladdinmf).
+  - 💭 I am mostly active on Discord. [**@aladdinmf**](https://discord.com/users/531768191832031233)
     There, you are welcome to ask me anything. 
 
 </div>
