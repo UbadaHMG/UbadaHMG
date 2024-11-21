@@ -89,7 +89,7 @@
 
 <div class="right" style="display:flex; flex-direction: column; width: 100%;">
 
-[<img align="left" width="390" src="https://raw.githubusercontent.com/UbadaHMG/ubadahmg/refs/heads/main/github-metrics.svg>](#)
+[<img align="left" width="390" src="https://raw.githubusercontent.com/UbadaHMG/ubadahmg/refs/heads/main/github-metrics.svg">](#)
 
 [<img align="right" width="390" src="https://raw.githubusercontent.com/UbadaHMG/ubadahmg/refs/heads/main/github-metrics.svg">](#)
 
